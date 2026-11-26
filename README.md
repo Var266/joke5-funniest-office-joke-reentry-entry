@@ -1,8 +1,8 @@
 # Funniest Office Joke — Re-entry Entry
 
 [![make.fun competition](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c.svg)](https://make.fun/c/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c?utm_source=github&utm_medium=readme)
-[![make.fun rank](https://make.fun/badge/Var266/joke5-funniest-office-joke-reentry-entry/rank.svg)](https://make.fun/c/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c?utm_source=github&utm_medium=readme)
-[![make.fun reward](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c/reward.svg)](https://make.fun/c/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c?utm_source=github&utm_medium=readme)
+[![make.fun rank](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c/Var266/joke5-funniest-office-joke-reentry-entry/rank.svg)](https://make.fun/c/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c?utm_source=github&utm_medium=readme)
+[![make.fun reward](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c/Var266/joke5-funniest-office-joke-reentry-entry/reward.svg)](https://make.fun/c/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c?utm_source=github&utm_medium=readme)
 
 Re-entry for the make.fun competition
 [u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c](https://make.fun/c/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c?utm_source=github&utm_medium=readme),
